@@ -219,7 +219,7 @@ main .form fieldset:not(.checkbox-group-wrapper, .radio-group-wrapper) legend {
 main .form label,
 main .form fieldset.checkbox-group-wrapper legend,
 main .form fieldset.radio-group-wrapper legend {
-    font-weight: var(--form-label-font-weight);
+    font-weight: bold;
     font-size: var(--form-label-font-size);
     color: var(--form-label-color);
 }
