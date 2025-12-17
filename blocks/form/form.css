@@ -90,7 +90,7 @@ form:not(.edit-mode) [data-visible="false"] {
 }
 
 main .form-container {
-    background-color: var(--form-background-color);
+    background-color: #F5F8FB;
     padding: var(--form-padding);
     width: var(--form-width);
 }
