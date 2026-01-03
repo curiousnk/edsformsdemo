@@ -803,6 +803,6 @@ main .form form select[multiple] {
     height: calc(42px + 50px);
 }
 
-main .form form .field-submit button{
-	background: green;
+main .form form .field-submit button {
+  background: green;
 }
